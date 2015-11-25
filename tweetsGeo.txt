@@ -1,0 +1,225 @@
+GeoLocation{latitude=35.69873225, longitude=139.77040529}
+GeoLocation{latitude=35.69080269, longitude=139.70027923}
+GeoLocation{latitude=35.70129379, longitude=139.70004089}
+GeoLocation{latitude=35.65852173, longitude=139.70132603}
+GeoLocation{latitude=35.70997629, longitude=139.8108722}
+GeoLocation{latitude=35.6985962, longitude=139.77301825}
+GeoLocation{latitude=35.62817135, longitude=139.7380668}
+GeoLocation{latitude=35.75457754, longitude=139.69314425}
+GeoLocation{latitude=35.6985962, longitude=139.77301825}
+GeoLocation{latitude=35.6753261, longitude=139.71223354}
+GeoLocation{latitude=35.66656664, longitude=139.72621322}
+GeoLocation{latitude=35.71058148, longitude=139.81323864}
+GeoLocation{latitude=35.71142586, longitude=139.79342937}
+GeoLocation{latitude=35.70486888, longitude=139.73248348}
+GeoLocation{latitude=35.66891325, longitude=139.70560493}
+GeoLocation{latitude=35.6636296, longitude=139.74168759}
+GeoLocation{latitude=35.69793502, longitude=139.77196097}
+GeoLocation{latitude=35.69249307, longitude=139.70105937}
+GeoLocation{latitude=35.6985962, longitude=139.77301825}
+GeoLocation{latitude=35.70384108, longitude=139.59936015}
+GeoLocation{latitude=35.6493624, longitude=139.70677288}
+GeoLocation{latitude=35.68948063, longitude=139.69997483}
+GeoLocation{latitude=35.65858063, longitude=139.6955622}
+GeoLocation{latitude=35.6264504, longitude=139.72343981}
+GeoLocation{latitude=35.68239834, longitude=139.77385998}
+GeoLocation{latitude=35.69739714, longitude=139.70470181}
+null
+GeoLocation{latitude=35.65907027, longitude=139.6963625}
+GeoLocation{latitude=35.68691239, longitude=139.76361394}
+GeoLocation{latitude=35.69873538, longitude=139.76603411}
+GeoLocation{latitude=35.75590723, longitude=139.69513178}
+GeoLocation{latitude=35.67882962, longitude=139.73625541}
+GeoLocation{latitude=35.676925, longitude=139.7642}
+GeoLocation{latitude=35.698447, longitude=139.770541}
+GeoLocation{latitude=35.70095633, longitude=139.79252316}
+GeoLocation{latitude=35.6564416, longitude=139.73484934}
+GeoLocation{latitude=35.698447, longitude=139.770541}
+GeoLocation{latitude=35.68634162, longitude=139.78197232}
+GeoLocation{latitude=35.65852173, longitude=139.70132603}
+GeoLocation{latitude=35.65837825, longitude=139.69693763}
+GeoLocation{latitude=35.6261, longitude=139.73964}
+GeoLocation{latitude=35.69166667, longitude=139.75}
+GeoLocation{latitude=35.66199481, longitude=139.69926838}
+GeoLocation{latitude=35.69962967, longitude=139.76890594}
+GeoLocation{latitude=35.68128286, longitude=139.76701498}
+null
+GeoLocation{latitude=35.69111903, longitude=139.72784936}
+GeoLocation{latitude=35.699583, longitude=139.765222}
+GeoLocation{latitude=35.65858063, longitude=139.6955622}
+GeoLocation{latitude=35.66218219, longitude=139.76014853}
+GeoLocation{latitude=35.71290244, longitude=139.70389724}
+GeoLocation{latitude=35.68486019, longitude=139.76703644}
+GeoLocation{latitude=35.67706084, longitude=139.76418071}
+GeoLocation{latitude=35.68128286, longitude=139.76701498}
+GeoLocation{latitude=35.71015957, longitude=139.80976602}
+GeoLocation{latitude=35.6894875, longitude=139.6917064}
+GeoLocation{latitude=35.658514, longitude=139.70133}
+GeoLocation{latitude=35.69679047, longitude=139.79323764}
+GeoLocation{latitude=35.670175, longitude=139.749929}
+GeoLocation{latitude=35.69080269, longitude=139.70027923}
+GeoLocation{latitude=35.67170259, longitude=139.76573825}
+GeoLocation{latitude=35.65864743, longitude=139.69565749}
+GeoLocation{latitude=35.69589617, longitude=139.69995975}
+GeoLocation{latitude=35.6894875, longitude=139.6917064}
+GeoLocation{latitude=35.71214982, longitude=139.79640424}
+GeoLocation{latitude=35.65852173, longitude=139.70132603}
+GeoLocation{latitude=35.67321396, longitude=139.71951294}
+null
+GeoLocation{latitude=35.63014573, longitude=139.74042892}
+GeoLocation{latitude=35.65852173, longitude=139.70132603}
+GeoLocation{latitude=35.70090608, longitude=139.74188805}
+GeoLocation{latitude=35.65619292, longitude=139.79520321}
+GeoLocation{latitude=35.71278919, longitude=139.77669239}
+GeoLocation{latitude=35.6863024, longitude=139.69961643}
+GeoLocation{latitude=35.69411048, longitude=139.77485432}
+GeoLocation{latitude=35.66199298, longitude=139.69744074}
+GeoLocation{latitude=35.666301, longitude=139.758679}
+GeoLocation{latitude=35.6894875, longitude=139.6917064}
+GeoLocation{latitude=35.66284031, longitude=139.75991249}
+GeoLocation{latitude=35.66842502, longitude=139.70529038}
+GeoLocation{latitude=35.65063475, longitude=139.70747324}
+GeoLocation{latitude=35.69951858, longitude=139.77044821}
+GeoLocation{latitude=35.65851667, longitude=139.7764349}
+GeoLocation{latitude=35.6493624, longitude=139.70677288}
+GeoLocation{latitude=35.67321396, longitude=139.71951294}
+GeoLocation{latitude=35.65856462, longitude=139.74547684}
+null
+null
+GeoLocation{latitude=35.6264504, longitude=139.72343981}
+GeoLocation{latitude=35.7063112, longitude=139.70872803}
+GeoLocation{latitude=35.7063112, longitude=139.70872803}
+GeoLocation{latitude=35.698277, longitude=139.77149159}
+GeoLocation{latitude=35.68743447, longitude=139.77844995}
+GeoLocation{latitude=35.65852173, longitude=139.70132603}
+GeoLocation{latitude=35.69813156, longitude=139.77336121}
+GeoLocation{latitude=35.665671, longitude=139.73073}
+null
+GeoLocation{latitude=35.70973056, longitude=139.80024929}
+GeoLocation{latitude=35.67796064, longitude=139.76999771}
+GeoLocation{latitude=35.64913964, longitude=139.69937503}
+GeoLocation{latitude=35.67374558, longitude=139.76161433}
+GeoLocation{latitude=35.65852173, longitude=139.70132603}
+GeoLocation{latitude=35.64339954, longitude=139.64660525}
+GeoLocation{latitude=35.6928378, longitude=139.70084244}
+GeoLocation{latitude=35.67339577, longitude=139.76299413}
+GeoLocation{latitude=35.69080269, longitude=139.70027923}
+GeoLocation{latitude=35.65864563, longitude=139.709198}
+GeoLocation{latitude=35.65980489, longitude=139.69984986}
+GeoLocation{latitude=35.6985962, longitude=139.77301825}
+GeoLocation{latitude=35.68948063, longitude=139.69997483}
+GeoLocation{latitude=35.64672008, longitude=139.71089066}
+null
+GeoLocation{latitude=35.672275, longitude=139.765791}
+GeoLocation{latitude=35.699583, longitude=139.765222}
+GeoLocation{latitude=35.6985962, longitude=139.77301825}
+GeoLocation{latitude=35.66847011, longitude=139.70562778}
+GeoLocation{latitude=35.6598504, longitude=139.70206261}
+GeoLocation{latitude=35.67143458, longitude=139.76576507}
+GeoLocation{latitude=35.69080269, longitude=139.70027923}
+GeoLocation{latitude=35.65864743, longitude=139.69565749}
+GeoLocation{latitude=35.693553, longitude=139.705184}
+GeoLocation{latitude=35.69221, longitude=139.700196}
+GeoLocation{latitude=35.69834235, longitude=139.7688657}
+GeoLocation{latitude=35.69760611, longitude=139.76872355}
+GeoLocation{latitude=35.6591041, longitude=139.703742}
+null
+GeoLocation{latitude=35.699583, longitude=139.765222}
+GeoLocation{latitude=35.70320617, longitude=139.77147549}
+GeoLocation{latitude=35.68137436, longitude=139.76778209}
+GeoLocation{latitude=35.6985962, longitude=139.77301825}
+GeoLocation{latitude=35.733327, longitude=139.798741}
+GeoLocation{latitude=35.64311841, longitude=139.67039547}
+null
+GeoLocation{latitude=35.69873225, longitude=139.77040529}
+GeoLocation{latitude=35.69088363, longitude=139.76971594}
+GeoLocation{latitude=35.693553, longitude=139.705184}
+GeoLocation{latitude=35.6985962, longitude=139.77301825}
+GeoLocation{latitude=35.6894875, longitude=139.6917064}
+GeoLocation{latitude=35.66378845, longitude=139.78195118}
+GeoLocation{latitude=35.68113471, longitude=139.76781964}
+GeoLocation{latitude=35.6985962, longitude=139.77301825}
+GeoLocation{latitude=35.73145354, longitude=139.71166866}
+GeoLocation{latitude=35.67132691, longitude=139.74136989}
+GeoLocation{latitude=35.68229993, longitude=139.76454159}
+null
+GeoLocation{latitude=35.7167, longitude=139.667}
+GeoLocation{latitude=35.66898975, longitude=139.67971444}
+null
+GeoLocation{latitude=35.69867779, longitude=139.77422208}
+GeoLocation{latitude=35.64294616, longitude=139.73415256}
+GeoLocation{latitude=35.67192266, longitude=139.76422548}
+GeoLocation{latitude=35.67628294, longitude=139.73635545}
+GeoLocation{latitude=35.66120657, longitude=139.71428606}
+GeoLocation{latitude=35.674877, longitude=139.763646}
+GeoLocation{latitude=35.69738376, longitude=139.75446127}
+GeoLocation{latitude=35.67611111, longitude=139.69916667}
+GeoLocation{latitude=35.66279444, longitude=139.75983889}
+GeoLocation{latitude=35.689674, longitude=139.697401}
+GeoLocation{latitude=35.65852173, longitude=139.70132603}
+GeoLocation{latitude=35.6914, longitude=139.69516}
+null
+null
+GeoLocation{latitude=35.7167, longitude=139.667}
+GeoLocation{latitude=35.65681679, longitude=139.7956717}
+GeoLocation{latitude=35.66217277, longitude=139.72365411}
+GeoLocation{latitude=35.6985962, longitude=139.77301825}
+null
+GeoLocation{latitude=35.67125, longitude=139.70481}
+GeoLocation{latitude=35.6552411, longitude=139.69375849}
+GeoLocation{latitude=35.69974729, longitude=139.76551831}
+GeoLocation{latitude=35.693553, longitude=139.705184}
+null
+GeoLocation{latitude=35.66183284, longitude=139.72171974}
+null
+GeoLocation{latitude=35.674877, longitude=139.763646}
+GeoLocation{latitude=35.68960502, longitude=139.69166636}
+null
+GeoLocation{latitude=35.66257399, longitude=139.69854366}
+null
+GeoLocation{latitude=35.66105574, longitude=139.66914314}
+GeoLocation{latitude=35.71585116, longitude=139.69514787}
+GeoLocation{latitude=35.6985962, longitude=139.77301825}
+GeoLocation{latitude=35.74664287, longitude=139.75454807}
+GeoLocation{latitude=35.62822723, longitude=139.73871231}
+null
+GeoLocation{latitude=35.65864743, longitude=139.69565749}
+null
+GeoLocation{latitude=35.65891766, longitude=139.70328569}
+null
+GeoLocation{latitude=35.666217, longitude=139.60419003}
+GeoLocation{latitude=35.70230879, longitude=139.7450316}
+GeoLocation{latitude=35.6991474, longitude=139.7703948}
+GeoLocation{latitude=35.660431, longitude=139.72925966}
+GeoLocation{latitude=35.69966991, longitude=139.77059178}
+GeoLocation{latitude=35.65972836, longitude=139.72343445}
+null
+GeoLocation{latitude=35.69034569, longitude=139.69978809}
+GeoLocation{latitude=35.65853411, longitude=139.6952887}
+GeoLocation{latitude=35.65900616, longitude=139.70548809}
+GeoLocation{latitude=35.69080269, longitude=139.70027923}
+GeoLocation{latitude=35.66638257, longitude=139.71075102}
+GeoLocation{latitude=35.70997629, longitude=139.8108722}
+GeoLocation{latitude=35.71333076, longitude=139.77644287}
+null
+GeoLocation{latitude=35.62817135, longitude=139.7380668}
+GeoLocation{latitude=35.62822723, longitude=139.73871231}
+GeoLocation{latitude=35.73029701, longitude=139.71068859}
+GeoLocation{latitude=35.70460407, longitude=139.6081603}
+GeoLocation{latitude=35.63014573, longitude=139.74042892}
+GeoLocation{latitude=35.64590961, longitude=139.70024368}
+GeoLocation{latitude=35.69966991, longitude=139.77059178}
+GeoLocation{latitude=35.69122176, longitude=139.77066426}
+GeoLocation{latitude=35.67127832, longitude=139.70485372}
+GeoLocation{latitude=35.7015529, longitude=139.6975025}
+GeoLocation{latitude=35.68955, longitude=139.69507}
+GeoLocation{latitude=35.65852173, longitude=139.70132603}
+GeoLocation{latitude=35.69275283, longitude=139.80941802}
+GeoLocation{latitude=35.73027306, longitude=139.71137792}
+GeoLocation{latitude=35.7086, longitude=139.80465278}
+GeoLocation{latitude=35.72356889, longitude=139.76874105}
+GeoLocation{latitude=35.73046545, longitude=139.71132052}
+GeoLocation{latitude=35.71261195, longitude=139.79653047}
+GeoLocation{latitude=35.70059285, longitude=139.77048195}
+GeoLocation{latitude=35.71069748, longitude=139.78821268}
+GeoLocation{latitude=35.67472909, longitude=139.73953843}
